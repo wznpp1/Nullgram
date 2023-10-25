@@ -21,7 +21,7 @@ public class ChooseSpeedLayout {
     ActionBarMenuSlider.SpeedSlider slider;
 
     private static final float MIN_SPEED = 0.2f;
-    private static final float MAX_SPEED = 2.5f;
+    private static final float MAX_SPEED = 9.5f;
 
     ActionBarMenuSubItem[] speedItems = new ActionBarMenuSubItem[5];
     public ChooseSpeedLayout(Context context, PopupSwipeBackLayout swipeBackLayout, Callback callback) {
